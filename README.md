@@ -1,6 +1,7 @@
 Private! No Peeking!
 Password Generator Project
 
+Assets\123.png
 
 This is the third Challenge in Coding Bootcamp.
 After being introduced to JavaScript we were tasked with creating a password generator.
