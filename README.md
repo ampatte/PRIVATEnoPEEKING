@@ -9,4 +9,4 @@ We were given starter code in a js file along with a html and css file.
 The acceptance criteria simplified:
     Creating a prompt for the length of the password and setting those parameters between 8 and 128 characters.
     And individual prompts for the options of including uppercase, lowercase, numbers, and special characters
-    after all input is validated and password is generated!
+    after all inputs are validated and password is generated!

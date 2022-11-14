@@ -15,15 +15,16 @@ function pwdOptions(){
       console.log(pwdLength);
         return pwdLength;}
     
-    let lowercase = prompt ("Would you like to include lowercase characters?");
+    var lowercase = confirm ("Would you like to include lowercase characters?");
       
-    let uppercase = prompt("Would you like to include uppercase characters?");
+    var uppercase = confirm("Would you like to include uppercase characters?");
 
-    let numeric= prompt("Would you like to include numbers?"); 
+    var numeric= confirm("Would you like to include numbers?"); 
 
-    let special = prompt("Would you like to include special characters?");    
+    var special = confirm("Would you like to include special characters?");    
     
-     // if (condition) {
+     // if (lowercase===true) {
+      
 /*function name(params) {
     return param; 
 }*/
