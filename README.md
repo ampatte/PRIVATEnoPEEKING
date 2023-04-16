@@ -1,12 +1,36 @@
-Private! No Peeking!
-Password Generator Project
+# Private! No Peeking!
 
-Assets\123.png
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-This is the third Challenge in Coding Bootcamp.
-After being introduced to JavaScript we were tasked with creating a password generator.
-We were given starter code in a js file along with a html and css file.
-The acceptance criteria simplified:
-    Creating a prompt for the length of the password and setting those parameters between 8 and 128 characters.
-    And individual prompts for the options of including uppercase, lowercase, numbers, and special characters
-    after all inputs are validated and password is generated!
+  [Github repo](https://github.com/ampatte/TrackMyBusiness)
+
+  ## Description
+  This is a Password Generator. The user is prompted to enter the desired parameters and a password is randomly generated.
+
+  ## Table of Contents
+  - [Installation Instructions](#Installation)
+  - [Usage Information](#Usage)
+  - [Contribution Guidelines](#Contribution)
+  - [Test Instructions](#Test)
+  - [Questions](#Questions)
+  - [License](#License)
+  
+  ## Installation
+  This application runs in the browser. No installations are required.
+
+  ## Usage
+  This was created for an assignment. It can be used to make passwords in the future.
+  ![alt text](Assets/images/2023-01-05 (2).png)
+  
+  ## Contribution
+  Anna Marie
+
+  ## Test
+  It can be tested by following the prompts and generating a password.
+
+  ## Questions?
+  - [Github link](https://github.com/ampatte)
+  - [Email link](ampatte717@gmail.com)
+
+  ## License
+    This project is covered under the ISC license.(https://www.isc.org/licenses/)
