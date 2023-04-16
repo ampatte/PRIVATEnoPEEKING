@@ -2,7 +2,9 @@
 
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
-  [Github repo](https://github.com/ampatte/TrackMyBusiness)
+  [Link to deployed application](https://ampatte.github.io/PRIVATEnoPEEKING/)
+
+  [Github repo](https://github.com/ampatte/PRIVATEnoPEEKING)
 
   ## Description
   This is a Password Generator. The user is prompted to enter the desired parameters and a password is randomly generated.
@@ -20,7 +22,7 @@
 
   ## Usage
   This was created for an assignment. It can be used to make passwords in the future.
-  ![alt text](Assets/images/2023-01-05 (2).png)
+  ![alt text](Assets/Screenshot%20(9).png)
   
   ## Contribution
   Anna Marie
